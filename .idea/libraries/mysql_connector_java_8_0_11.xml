@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring_hiber/lib/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring_hiber/lib/c3p0-0.9.1-pre6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring_hiber/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
